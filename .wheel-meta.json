@@ -1,0 +1,22 @@
+{
+  "wheel_id": 466,
+  "structure": "umbrella",
+  "slug": "goldcoastretainingwall-105",
+  "project": "retaining-wall-builders-gold-coast-maintenance-155c8b2636f8596d",
+  "parent_t1_ref": "goldcoastretainingwall-152",
+  "node_role": "feeder",
+  "money_target": "goldcoastretainingwall.net.au",
+  "primary_kw": "retaining wall builders gold coast maintenance",
+  "intended_url": "https://sitesau.github.io/goldcoastretainingwall-105/",
+  "tier": "T2",
+  "writeback_nonce": "fb63883b889b2220",
+  "links": [
+    {
+      "target_url": "https://sites-e470-2.web.app/retaining-wall-builders-gold-coast-materials-compared-3b6870a91/",
+      "anchor": "Retaining Wall Builders Gold Coast Materials Compared: Guide",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "topical"
+    }
+  ]
+}
